@@ -4,7 +4,7 @@ let books = require("./booksdb.js");
 const regd_users = express.Router();
 
 let users = [{
-  "username": "James Smith",
+  "username": "Shreyas",
   "password": "1234"
 }
 ];
